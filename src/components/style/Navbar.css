@@ -1,0 +1,35 @@
+.navbar {
+    width: 100%;
+    padding: 1rem;
+    background-color: #184b64;
+    height: 5rem;
+    display: flex;
+}
+
+.navbarlogo {
+    margin-right: 0.5rem;
+    filter: invert(1);
+    height: 100%;
+    display: flex;
+}
+
+.a {
+    height: 100%;
+}
+
+
+li, ul {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: space-between;
+    width: 30%;
+    margin-left: 2em;
+}
+
+
+.text {
+position: fixed;
+width: 100%;
+display: flex;
+}
